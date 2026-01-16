@@ -43,18 +43,9 @@ Una plataforma Full Stack diseñada para conectar profesionales con clientes de 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiagoPruyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoPruyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
----
-
 ### 📫 Conectemos
 
-Siempre estoy abierto a discutir sobre nuevas tecnologías, arquitectura de software o oportunidades laborales remotas.
+Siempre estoy abierto a discutir sobre nuevas tecnologías, arquitectura de software u oportunidades laborales.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Pruyas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santiagoisaacpruyas/)
 [![Email](https://img.shields.io/badge/Email-Contactame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santi.pruyas@gmail.com)
